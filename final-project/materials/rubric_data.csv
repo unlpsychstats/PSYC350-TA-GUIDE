@@ -1,0 +1,76 @@
+Section,Level,Points,Format_Note,Feedback
+"Use of ""causal language"" in any section other than the proposal",1,-15,,"This one might have caught some people out, in the results and discussion, using causal language is inappropriate since we don't have a true experiment (no true IV manipulation or random assignment)… only associative tests. The -15 in red is Cal's and is part of the rubric… it will be on everyone's and does not indicate a loss of points… IF I did take points for that it will be indicated otherwise. Even though we can run the anovas, it still isn't causal, so avoid words like caused, led to, affected, changed, etc."
+Title Page / Title Section,1,5,,"Title should be something that ties in the tests you did and your proposal, what is the theme of your references in sum… that's a good place to start"
+Running head,2,1,,"No Running head remember the rules on this, 50 characters max, put it in the header at the top of each page and add page numbers. See the Student Template Handout for more details."
+Title,2,2,,"Title should be something that ties in the tests you did and your proposal, what is the theme of your references in sum… that's a good place to start"
+Author(s) & Affiliation,2,2,,Your name and UNL
+Abstract,1,10,,"Don't forget the section header, properly formatted, first line is not indented on abstracts. 150-250 words."
+Behaviors/variables being studied,2,3,,"I need you to explain to me what CONCEPTS you are interested in here. By just saying variables – and not even naming them or explaining their relevance – I know little about your study."
+Population & sample description,2,3,,"More than just N= …. From where, rough demographic makeup etc. Don't need every single detail here, but it should adequately describe the sample."
+Summary of results,2,4,,"You don't need to relay every single minor point, but include a mention of each result, lump them together if possible. Describe your findings in plain language!"
+Introduction,1,65,,"Don't forget to format the first page correctly, include title etc."
+Purpose of current study,2,5,,"Tell me what the concept behind your core variable is and why I should care. This is an intro paragraph to introduce your reader to the purpose of your study. Everywhere outside of the methods and results, be sure to talk about the variables as psychological constructs, not in terms of their variable names or specific measures."
+"Summary of 1st article (use proper citation, discuss relevant findings)",2,10,,"Don't just start this with summary of article one – carry on where the purpose paragraph left off smoothly. Start with the big picture and work down into details. Tie findings to your own RHs. Explain WHY you've chosen this ref as it relates to your RHs. Each reference should have an in-text citation. For these, consider that they should be 2-3 very dense and informative sentences. The best way to think about it: when I get to your RHs there is a hypothesized correlation/mean difference AND a direction/higher mean – HOW did you arrive at each of those conclusions and WHY is that logic supported by your refs?"
+"Summary of 2nd article (use proper citation, discuss relevant findings)",2,10,,"Use separate paragraphs for each ref. Try to connect them if they fit… or at least use transition sentences to show that you're changing gears and bringing up new concepts (variables) that will be supported by a different reference."
+"Summary of 3rd article (use proper citation, discuss relevant findings)",2,10,,"Same as above. Make sure you are including the details that someone needs to understand YOUR research."
+Integrate the 3 articles to the current study,2,10,,"Same as the integrations we did before… many are too short or just recap individual findings… what do we get from the 3 references together that create a whole picture? This is also an excellent opportunity to segue into your RHs. This is an integration of your references – NOT your analyses."
+RH1: (with full pattern predicted),2,5,,"RHs need to include basic info: ANOVA – what is DV, what are IV levels, which group higher. Correlation – needs to say pos/neg linear relationship, both variables named, describe what pos/neg means. Use very formal language and the formal name (capitalized) of any measures. Speak in terms of scores, not labels."
+RH2: (with full pattern predicted),2,5,,
+RH3: (with full pattern predicted),2,5,,
+RH4: (with full pattern predicted),2,5,,
+Bonus RH: #1 (with full pattern predicted),2,5,,
+Bonus RH: #2 (with full pattern predicted),2,5,,
+Method,1,35,,
+If you don't use past tense,2,-15,,Don't forget this!
+Heading and 3 sub-headings,2,4,,Proper section and subsection headings and formatting! BUT REMOVE THE EXTRA SPACES
+"Participants: popn., sample, sample size, demographic info, mean/std age, gender n/%, and ethnicity n/%",2,6,,"M&SD or N&% as appropriate. Age, gender, ethnicity… if you used gender as a variable, you MUST give me the numbers for the original coding AND tell me how it was recoded, and WHY you chose that, and then the values for the recoded variable!"
+"Apparatus (or Materials): Provide a general description of the Demographic sheet and a detailed description of each of the scales",2,15,,"Mention variables collected, that not all surveys were analyzed in current study, that current study not part of original. For main surveys/measures give a description and score interpretation info (higher scores mean what?) and use an in-text citation. If you recoded any variables, give N & % of original and recoded categories."
+"Procedure (describe experiment in detail; how the study was conducted, etc.)",2,10,,"Each researcher completed a survey and then recruited 5 other undergrads to complete one. Important to note that the current RHs are not part of the original analyses."
+Results,1,90,,"This section is a bit dry, but try not to just list each one off… use the statement/implication of RH part as a lead in to each test."
+Heading,2,1,,Proper section heading
+Table 1 presenting univ stats – with descriptive caption,2,9,,"Make the table proper APA format: qualitative variables get N & %, quantitative get M & SD."
+Analysis relevant to Research Hypothesis 1,2,,,"Repeat brief version of RH. Follow handouts for format. Include M&SD in text with respective groups in parentheses. Full sentence directing readers to ANOVA figs or tables. Use 3 decimal places for r, F, p, MSe and 2 decimal places for all other values! For each ANOVA you can also create a proper APA figure (bar graph)."
+Statement/implication of RH,3,3,,
+Report of related univariate statistics,3,4,,
+Presentation of complete pattern of data,3,5,,
+"Description of complete, partial, or no support for RH",3,3,,
+Format of statistical portion of reporting statement,3,3,,
+Analysis relevant to Research Hypothesis 2,2,,,
+Statement/implication of RH,3,3,,
+Report of related univariate statistics,3,4,,
+Presentation of complete pattern of data,3,5,,
+"Description of complete, partial, or no support for RH",3,3,,
+Format of statistical portion of reporting statement,3,3,,
+Analysis relevant to Research Hypothesis 3,2,,,
+Statement/implication of RH,3,3,,
+Report of related univariate statistics,3,4,,
+Presentation of complete pattern of data,3,5,,
+"Description of complete, partial, or no support for RH",3,3,,
+Format of statistical portion of reporting statement,3,3,,
+Analysis relevant to Research Hypothesis 4,2,,,
+Statement/implication of RH,3,3,,
+Report of related univariate statistics,3,4,,
+Presentation of complete pattern of data,3,5,,
+"Description of complete, partial, or no support for RH",3,3,,
+Format of statistical portion of reporting statement,3,3,,
+Bonus RH: #1 (with full analysis results),2,10,,
+Bonus RH: #2 (with full analysis results),2,10,,
+Discussion,1,85,,"The discussion is worth quite a bit, your answers should reflect the weighting and be thorough."
+Heading,2,1,,Proper APA heading
+Well-organized summary of research findings,2,24,,"Each of the test results from RH1-6 should be recapped in some way. If 2 or more variables fit together, talk about them together here."
+"Relating findings back to references from intro. What was replicated? What was converged? What was different?",2,30,,"You need to talk about what those results mean (each of them!), what nonsignificant findings might suggest, and why they might have been nonsignificant. This section should end with some kind of ambiguity about the results that needs to be resolved… the rationale picks up where this leaves off."
+What has this study contributed to psychological science?,2,20,,"Because you tested these things, we know more about them… specify what exactly. If you had nonsignificant results, think about reasons why (power problem? demographics?). Showing that a previous finding isn't replicating and suggesting why IS a contribution."
+What were the limitations of this research?,2,5,,
+What are some future directions for this research? Is there a logical next step?,2,5,,
+Proposal Section of Discussion,1,90,Paper,
+Rationale for suggested research,2,40,Paper,"Walk the reader through your logic step by step. Tie the references to your analyses, then to the natural extension that is your proposal. The RHs should fit with what you analyzed… if it takes a hard left into weakly related tangents, you have little rationale. This is the single box worth the most points – don't skimp!"
+Research hypotheses (at least two),2,30,Paper,"These need formal language with a full pattern described! The best proposals will have an identifiable, clear trail of logic that flows from intro to RHs to results to discussion to proposal rationale."
+"Changes in materials, procedures",2,20,Paper,"Address initial and ongoing equivalence, whether you have a true experiment, potential confounds. If introducing new measures, propose them. If sampling differently, describe that with course terminology. Include specific details – how much bigger, from where, etc."
+Aesthetics,1,90,Poster,
+Poster Layout,2,25,Poster,
+Poster Sections,2,20,Poster,
+Poster Visuals & Graphics,2,35,Poster,
+Well-written,2,10,Poster,
+References,1,20,,"APA formatted references page, include YOUR refs and the refs for any measures/surveys that apply to your variables. USE ZOTERO AND LEARN TO THRIVE."
+Heading,2,1,,
+Format of Entries,2,19,,
