@@ -37,35 +37,35 @@
 
 /* ── Dark-mode overrides for style.css hardcoded values ─────────────────── */
 /* Quarto adds data-bs-theme="dark" to <html> when dark mode is active.     */
-[data-bs-theme="dark"] .hero-content hr {
+body.quarto-dark .hero-content hr {
   background: linear-gradient(90deg, transparent, #ffd74f80, transparent);
 }
 
-[data-bs-theme="dark"] .hero-content table {
+body.quarto-dark .hero-content table {
   color: #e0e0e0;
 }
 
-[data-bs-theme="dark"] div.csl-entry a {
+body.quarto-dark div.csl-entry a {
   color: #5ca8c4;
 }
 
-[data-bs-theme="dark"] .button-61:disabled {
+body.quarto-dark .button-61:disabled {
   background-color: rgba(255, 255, 255, 0.08);
   color: rgba(255, 255, 255, 0.3);
 }
 
 /* Glossary popups in dark mode */
-[data-bs-theme="dark"] a.glossary {
+body.quarto-dark a.glossary {
   color: #e63946;
 }
 
-[data-bs-theme="dark"] a.glossary .def {
+body.quarto-dark a.glossary .def {
   background-color: #2a2a4a;
   color: #e0e0e0;
   border: 1px solid #3d3d5c;
 }
 
-[data-bs-theme="dark"] a.glossary:active .def::after {
+body.quarto-dark a.glossary:active .def::after {
   border-color: #2a2a4a transparent transparent transparent;
 }
 
@@ -165,3 +165,27 @@ div.csl-entry a {
   }
 
 
+
+/* Quarto uses body.quarto-dark, including when dark styles layer on light. */
+body.quarto-dark main :is(h1, h2, h3, h4, h5, h6) { color: #ff8c96; }
+body.quarto-dark .btn-primary {
+  --bs-btn-bg: #b72433;
+  --bs-btn-border-color: #b72433;
+  --bs-btn-hover-bg: #98202d;
+  --bs-btn-hover-border-color: #98202d;
+  --bs-btn-active-bg: #98202d;
+  color: #fff;
+  background-color: #b72433;
+}
+body.quarto-dark .btn-primary:hover { background-color: #98202d; }
+body.quarto-dark .page-navigation .nav-page-text,
+body.quarto-dark .breadcrumb-item a { color: #bcc4d4; }
+body.quarto-dark .nav-tabs .nav-link { color: #9bd7ee; }
+body.quarto-dark .nav-tabs .nav-link.active { color: #fff; background-color: #2a2a4a; }
+body.quarto-dark .callout-body,
+body.quarto-dark .callout-body p,
+body.quarto-dark #webex-formative-notice { color: #e0e0e0; }
+.flextable-shadow-host { background-color: #fff; color: #1a1a1a; }
+
+body.quarto-dark .quarto-title-breadcrumbs .chapter-title { color: #bcc4d4; }
+body.quarto-dark .no-row-height p { color: #e0e0e0; }
